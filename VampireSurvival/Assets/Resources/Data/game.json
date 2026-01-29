@@ -1,0 +1,36 @@
+{
+  "pools": [
+    {
+      "tag": "aura",
+      "prefab": "Prefabs/Weapons/GarlicAura",
+      "size": 1
+    },
+    {
+      "tag": "bat",
+      "prefab": "Prefabs/Enemies/Bat",
+      "size": 100
+    },
+    {
+      "tag": "skeleton", 
+      "prefab": "Prefabs/Enemies/Skeleton",
+      "size": 50
+    },
+    {
+      "tag": "fireball",
+      "prefab": "Prefabs/Projectiles/Fireball",
+      "size": 30
+    },
+    {
+      "tag": "experience",
+      "prefab": "Prefabs/Experience/ExperienceOrb",
+      "size": 100
+    }
+    
+    
+  ],
+  "spawnSettings": {
+    "baseSpawnRate": 1.5,
+    "maxEnemies": 200,
+    "waveMultiplier": 0.1
+  }
+}

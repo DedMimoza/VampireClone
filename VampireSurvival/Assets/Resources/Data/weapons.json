@@ -1,0 +1,23 @@
+{
+  "weapons": [
+    {
+      "id": "aura",
+      "name": "Garlic Aura", 
+      "damage": 20,
+      "fireRate": 0,
+      "range": 3,
+      "poolSize": 1,
+      "prefab": "Prefabs/Weapons/GarlicAura"
+    },
+    {
+      "id": "fireball",
+      "name": "Fireball", 
+      "damage": 50,
+      "fireRate": 2.0,
+      "range": 3.0,
+      "speed": 8.0,
+      "poolSize": 30,
+      "prefab": "Prefabs/Projectiles/Fireball"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "moveSpeed": 5.0,
+  "acceleration": 15.0,
+  "maxHealth": 100.0,
+  "invincibleTime": 1.5,
+  "dashSpeed": 12.0,
+  "dashDuration": 0.3,
+  "dashCooldown": 2.0,
+  "cameraSmoothTime": 0.1,
+  "experienceToLevel": 150,
+  "levelCap": 25,
+  "startingMight": 1.0,
+  "startingArea": 1.0,
+  "startingDuration": 1.0,
+  "startingSpeed": 1.0
+}

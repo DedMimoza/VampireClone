@@ -1,0 +1,10 @@
+{
+  "orb": {
+    "id": "basic",
+    "experienceValue": 5.0,
+    "moveSpeed": 3.0,
+    "attractRadius": 2,
+    "collectionRadius": 1.5,
+    "poolSize": 100
+  }
+}
